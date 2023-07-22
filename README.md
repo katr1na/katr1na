@@ -25,7 +25,7 @@
 
 [<img align="left" alt="LinkedIn" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" />][linkedin]
 
-[linkedin]: www.linkedin.com/in/katrina-ngo-7989b3240
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
 
