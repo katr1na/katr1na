@@ -1,4 +1,4 @@
-<h1>Hi, I'm Katrina! 🌱 <br/></h1>
+<h1>Hi, I'm Katrina! 🌱⭐️ <br/></h1>
 
 I'm a college student studying computer science and currently exploring different paths I can take with this field. I enjoy making and designing webpages in HTML, CSS, and Javascript, as they are a great way to showcase my ideas and creativity for everyone to see. I love a good challenge, and programming in C++ has definitely given me this aspect. <br/><br/>
 
