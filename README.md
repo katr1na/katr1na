@@ -7,7 +7,7 @@ For my programming projects, I typically only upload them to Github once I make 
 - <b>🌱 I’m currently learning C++, Python, Javascript</b>
 - <b>💬 Ask me about my obsession with dachshunds</b>
 - <b>📫 Feel free to email me at: katrinango3388@gmail.com</b>
-- <b>⚡ Fun fact: I like to roller skate 🛼 </b>
+- <b>⚡ Fun fact: I have never had pie 🥧 </b>
 
   
 <h2>👩‍💻 My Projects:</h2>
