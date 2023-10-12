@@ -14,6 +14,7 @@ For my programming projects, I typically only upload them to Github once I make 
 
 - <b>C++</b>
   - [Blood Typing Game](https://github.com/katr1na/Blood-Typing-Game)
+  - [K-Way Merge Sort](https://github.com/katr1na/K-Way-Merge-Sort)
 
 <h2> 😄 Connect with me:</h2>
 
