@@ -15,7 +15,7 @@ For my programming projects, I typically only upload them to Github once I make 
 
 [<img align="left" alt="LinkedIn" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/katrina-ngo-7989b3240/
+[linkedin]: https://www.linkedin.com/in/katrinango-
 
 <!--
 
