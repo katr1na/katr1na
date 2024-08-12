@@ -8,8 +8,10 @@ For my programming projects, I typically only upload them to Github once I make 
 
 - <b>C++</b>
   - [Blood Typing Game](https://github.com/katr1na/Blood-Typing-Game)
-  - [Psyche Chatbot](https://github.com/katr1na/psyche_chatbot)
   - [K-Way Merge Sort](https://github.com/katr1na/K-Way-Merge-Sort)
+
+- <b>Javascript</b>
+  - [Psyche Chatbot](https://github.com/katr1na/psyche_chatbot)
 
 <h2> 😄 Connect with me:</h2>
 
