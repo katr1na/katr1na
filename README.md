@@ -2,11 +2,9 @@
   
 <h2>👩‍💻 My Projects:</h2>
 
-- <b>C++</b>
   - [Blood Typing Game](https://github.com/katr1na/Blood-Typing-Game)
-
-- <b>Javascript</b>
   - [Psyche Chatbot](https://github.com/katr1na/psyche_chatbot)
+  - [Microblading Business Website](https://github.com/katr1na/microblading_website)
 
 <h2> 😄 Connect with me:</h2>
 
